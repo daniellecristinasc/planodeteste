@@ -1,4 +1,3 @@
-Aqui está um exemplo de um **plano de testes** baseado na **User Story (US)** fornecida, utilizando o modelo em Markdown:
 
 ```markdown
 # Plano de Testes - Tela de Motivações para Novas Amostras
