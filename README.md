@@ -1,5 +1,4 @@
 
-```markdown
 # Plano de Testes - Tela de Motivações para Novas Amostras
 
 ## 1. Introdução
@@ -129,6 +128,3 @@ Este plano de testes tem como objetivo validar a funcionalidade da tela "Motiva�
 ## 10. Aprovações
 - **Responsável:** [Nome do responsável]
 - **Data:** [Data de aprovação]
-```
-
-Este plano de testes cobre todos os critérios de aceitação da US fornecida e pode ser ajustado conforme necessário.
