@@ -120,7 +120,7 @@ Este plano de testes tem como objetivo validar a funcionalidade da tela "Motiva�
 ## 9. Relatório de Testes
 - **Sumário Executivo:** Todos os casos de teste foram executados, com X aprovados e Y reprovados.
 - **Defeitos Encontrados:** Listar defeitos encontrados (se houver).
-- **Métricas:** Taxa de sucesso: 95%.
+
 - **Conclusão:** A funcionalidade atende aos critérios de aceitação, com pequenos ajustes necessários.
 
 ---
