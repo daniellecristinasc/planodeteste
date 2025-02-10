@@ -2,7 +2,7 @@
 # Plano de Testes - Tela de Motivações para Novas Amostras
 
 ## 1. Introdução
-Este plano de testes tem como objetivo validar a funcionalidade da tela "Motivações para Novas Amostras", garantindo que todos os critérios de aceitação sejam atendidos e que o sistema comporte-se conforme o esperado.
+Este plano de testes tem como objetivo validar a funcionalidade da tela "Motivações para Novas Amostras", garantindo que todos os critérios de aceitação sejam atendidos e que o sistema comporte-se conforme o esperado. (Dados descritos pelo analista na US)
 
 ---
 
@@ -10,7 +10,7 @@ Este plano de testes tem como objetivo validar a funcionalidade da tela "Motiva�
 - Validar a estrutura da tela, incluindo campos, botões e grid de listagem.
 - Verificar o comportamento dos botões de ação (Novo, Editar, Excluir, Cancelar, Salvar).
 - Garantir que as mensagens do sistema sejam exibidas corretamente.
-- Validar a navegação e a paginação da grid.
+- Validar a navegação e a paginação da grid.(Dados descritos pelo analista na US)
 
 ---
 
